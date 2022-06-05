@@ -1,0 +1,168 @@
+.navbar-bg-color{
+
+    background-color: #4969d6;
+    
+    
+    }
+
+
+
+
+    .Firstcol{
+        background-color: #ffffff;
+        box-shadow: 1px 1px 5px #757575;
+        height: 45px;
+        display: flex;
+        word-wrap: break-word;
+        
+        
+        
+    }
+
+    .Secondcol{
+        background-color: #dddddd;
+        padding: 15px;
+        box-shadow: 1px 1px 5px #757575;
+        height: 45px;
+        display: flex;
+        
+    }
+
+
+.Thirdcol{
+    background-color: #ffffff;
+   
+    box-shadow: 1px 1px 5px #757575;
+    height: 45px;
+    display: flex;
+
+}
+
+ /* .col-md-5{ */
+        /* text-align: center; */
+        /* align-items: center; */
+        /* justify-content: center; */
+        /* margin: 2px solid black; */
+    /* } */
+
+    .row{
+        margin: 2px solid black;
+    }
+
+
+
+
+
+    .LeftSide-1{
+        background-color: #ffffff;
+        box-shadow:  #757575;
+        height: 100px;
+       width: 229px;
+       align-items: center;
+       padding: 10px 10px;
+    
+    }
+
+
+     
+    hr {
+        top: 20px;
+        border: 3px solid black;
+        height: 3px;
+        background: black;
+        width: 180px;
+    }
+
+
+
+    .bg-color-second-colom{
+
+        background-color: #2278c5
+    }
+
+
+
+    .blueColom{
+
+        background-color: #2278c5;
+        padding: 15px;
+        height: 45px;
+        display: flex;
+        color: #ffffff;
+    }
+
+
+
+    /* chatbox */
+    
+    .container {
+        border: 2px solid #dedede;
+        background-color: #f1f1f1;
+        border-radius: 5px;
+        padding: 10px;
+        margin: 10px 0;
+      }
+      
+      .darker {
+        border-color: #ccc;
+        background-color: #ddd;
+      }
+      
+      .container::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      
+      .container img {
+        float: left;
+        max-width: 60px;
+        width: 100%;
+        margin-right: 20px;
+        border-radius: 50%;
+      }
+      
+      .container img.right {
+        float: right;
+        margin-left: 20px;
+        margin-right:0;
+      }
+      
+      .time-right {
+        float: right;
+        color: #aaa;
+      }
+      
+      .time-left {
+        float: left;
+        color: #999;
+      }
+
+      #footer a {
+        text-decoration: none;
+        color: #757575;
+        display: flex;
+        align-items: center;
+       
+       
+      
+      }
+      
+      #foot {
+        float: right;
+        text-align: center;
+        align-items: center;
+       
+      }
+      
+      
+      .input-group{
+          width: 100px;
+      }
+
+
+      .textarea{
+
+        text-align: center;
+
+      }
